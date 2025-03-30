@@ -66,6 +66,6 @@ internal class Program
         //AppContatos.App();
 
         // Exercicio 12
-        //AppContatos2.App();
+        AppContatos2.App();
     }
 }
